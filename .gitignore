@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+*.vs
+.vs
+NewText.txt
+.gitignore
+/.gitignore
 
 # Compiled Object files
 *.slo
