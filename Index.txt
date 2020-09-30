@@ -3,3 +3,5 @@ echo 1;
 php_info();
 ?>
 $char = '1';
+Some text
+

@@ -2,7 +2,6 @@
 *.d
 *.vs
 .vs
-NewText.txt
 .gitignore
 /.gitignore
 
