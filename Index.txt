@@ -5,4 +5,5 @@ php_info();
 $char = '1';
 Some text
 Some text@5
+tEST TEST2
 tEST TEST1
