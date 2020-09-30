@@ -7,4 +7,3 @@ Some text
 Some text@5
 tEST TEST2
 tEST TEST1
-Delete commit line
