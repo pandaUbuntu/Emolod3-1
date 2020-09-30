@@ -2,4 +2,5 @@
 echo 1;
 php_info();
 ?>
-Some text
+Some text@5
+tEST TEST	
